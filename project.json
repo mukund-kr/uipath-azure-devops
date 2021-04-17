@@ -1,6 +1,6 @@
 {
-  "name": "UiPath CI CD",
-  "description": "Blank Process",
+  "name": "UiPathAzureDevOps",
+  "description": "UiPathAzureDevOps",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.10.4]",
